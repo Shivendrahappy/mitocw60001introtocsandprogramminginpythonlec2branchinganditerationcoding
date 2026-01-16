@@ -1,4 +1,4 @@
-# mitocw60001introtocsandprogramminginpythonlec2branchinganditerationcoding
+# mitocw60001 Intro to cs and Programming in python lec2 branching  and iterationcoding
 codes
 https://www.programiz.com/online-compiler/8AFMUvMHosNTT
 
