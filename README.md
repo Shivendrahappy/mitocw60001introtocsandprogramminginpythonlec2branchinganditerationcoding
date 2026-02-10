@@ -198,14 +198,16 @@ In simple English 🧠
 
 silly stands for a variable that stores a funny repeated greeting.
 
-That’s it. Nothing magical. Nothing hidden.
+Date-10 feb 2026
+Code INPUT
+x=1
+print(x)
+x_str = str (x)
+print ("my fav num is ", x, ".", "x =" , x)
+print ("my fav num is" + x_str + "." + "x = " + x_str)
 
-If you want, I can:
-
-Rename variables properly (professional style)
-
-Explain operators + and * deeply
-
-Show how MIT OCW expects you to read code like English
-
-Just tell me 🙂
+OUTPUT
+1
+my fav num is  1 . x = 1
+my fav num is1.x = 1
+https://www.programiz.com/online-compiler/0lKIKZZo2Xgyd
