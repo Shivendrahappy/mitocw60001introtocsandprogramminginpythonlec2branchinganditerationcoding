@@ -211,3 +211,9 @@ OUTPUT
 my fav num is  1 . x = 1
 my fav num is1.x = 1
 https://www.programiz.com/online-compiler/0lKIKZZo2Xgyd
+## Print and String Concatenation
+
+- Using commas in print automatically adds spaces
+- Using + requires all values to be strings
+- Numbers must be converted using str()
+
